@@ -2,7 +2,7 @@
 
 var gulp   = require('gulp');
 var del    = require('del');
-var config = require('../../config').delete;
+var config = require('../../../config').delete;
 
 /**
  * Delete folders and files
